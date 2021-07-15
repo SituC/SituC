@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SituC "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SituC)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=SituC)
+![](https://komarev.com/ghpvc/?username=SituC&layout=compact)
 
 <!--
 **SituC/SituC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
