@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-<p>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SituC "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
-<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SituC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 
 <!--
 **SituC/SituC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
